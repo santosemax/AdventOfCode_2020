@@ -2,7 +2,7 @@
 
 from sys import exit
 
-with open("day01_data.txt", "r") as file:
+with open("data/day01_data.txt", "r") as file:
     # Array to store numbers
     nums = []
 

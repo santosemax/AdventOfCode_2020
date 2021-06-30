@@ -6,7 +6,7 @@ import re
 amount, letter, string, least, most = [], [], [], [], []
 valid, valid2 = 0, 0
 
-with open("day02_data.txt", "r") as file:
+with open("data/day02_data.txt", "r") as file:
     reader = file.read().split()
 
     # Filling the Lists from file
