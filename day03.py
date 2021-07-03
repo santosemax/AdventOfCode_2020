@@ -3,7 +3,7 @@
 with open("data/day03_data.txt", "r") as file:
     reader = file.read()
     reader_list = reader.splitlines()
-
+    
     # Part 1
     # total = trees | x = Increment Value 
     total, x = 0, 0
