@@ -50,12 +50,3 @@ for id in ids:
         missing = id + 1
 
 print(missing)
-
-
-
-
-
-
-
-
-
